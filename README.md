@@ -5,7 +5,7 @@
 ***
 Automatic installation of a Windows upgrade through the setup installer | Автоматическая установка обновления Windows через установщик
 
-Add script to windows installation folder | Добавить скрипт в папку установки Windows
+Add the script to the folder with the Windows installation files | Добавить скрипт в папку с файлами установки Windows
 
 <div align="center">
   
